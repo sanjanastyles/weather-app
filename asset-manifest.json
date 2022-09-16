@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.com/sanjanastyles/weather-app/static/css/main.05a646e6.css",
+    "main.js": "/github.com/sanjanastyles/weather-app/static/js/main.fe304840.js",
+    "index.html": "/github.com/sanjanastyles/weather-app/index.html",
+    "main.05a646e6.css.map": "/github.com/sanjanastyles/weather-app/static/css/main.05a646e6.css.map",
+    "main.fe304840.js.map": "/github.com/sanjanastyles/weather-app/static/js/main.fe304840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05a646e6.css",
+    "static/js/main.fe304840.js"
+  ]
+}
