@@ -1,4 +1,4 @@
-# [Live Demo](https://sanjanastyles.github.io/weather-app/)
+<!-- # [Live Demo](https://sanjanastyles.github.io/weather-app/) -->
 
 This project brings up the latest weather update using the [OpenWeather app](https://openweathermap.org) API. It changes background according to the temperature of a particular city.
 
