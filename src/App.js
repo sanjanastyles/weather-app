@@ -1,4 +1,3 @@
-import "./App.css";
 import TopButtons from "./components/TopButtons";
 import Inputs from "./components/Inputs";
 import TimeLocation from "./components/TimeLocation";
